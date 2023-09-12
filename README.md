@@ -116,6 +116,11 @@ To use the program, simply execute the Python script. This will open a graphical
 - Ankitha Shett
 - Parth Patel
 - Inchara Nataraj
+- 
+## Acknowledgments:
+
+We express our heartfelt gratitude to *Professor Benjamin Rophit * for his invaluable guidance, mentorship, and support throughout the "Aerospace Structures" course and this Experiential Learning project. We also extend our thanks to our peers for their collaboration and contributions to the success of this endeavor.
+
 
 ## License
 
